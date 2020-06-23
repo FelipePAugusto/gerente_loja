@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    }
+]

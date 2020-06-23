@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

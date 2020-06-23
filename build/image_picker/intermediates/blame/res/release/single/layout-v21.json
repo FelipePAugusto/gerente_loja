@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\src\\gerente_loja\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\felipe.augusto.ext\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\980f5a4101c9524b840c1e2ece7efc4c\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
